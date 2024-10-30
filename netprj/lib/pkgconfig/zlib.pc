@@ -1,0 +1,13 @@
+prefix=/Users/mukulagarwal/Desktop/Projects/NetworkSecurity/netprj
+exec_prefix=/Users/mukulagarwal/Desktop/Projects/NetworkSecurity/netprj
+libdir=/Users/mukulagarwal/Desktop/Projects/NetworkSecurity/netprj/lib
+sharedlibdir=/Users/mukulagarwal/Desktop/Projects/NetworkSecurity/netprj/lib
+includedir=/Users/mukulagarwal/Desktop/Projects/NetworkSecurity/netprj/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
