@@ -3,5 +3,9 @@ pandas
 numpy
 pymongo
 certifi
+scikit-learm
+pyyaml
+pickle-mixin
+mlflow
 
 ## -e .

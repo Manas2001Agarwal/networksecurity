@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mukulagarwal/Desktop/Projects/NetworkSecurity/mlruns/0/8db9aee2566f4bdcb04bd48340107300/artifacts
+end_time: 1730400169707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8db9aee2566f4bdcb04bd48340107300
+run_name: crawling-elk-122
+run_uuid: 8db9aee2566f4bdcb04bd48340107300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730400168619
+status: 3
+tags: []
+user_id: mukulagarwal
